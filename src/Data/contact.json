@@ -1,0 +1,38 @@
+ 
+[
+    {
+      "id": 1,
+      "name": "Aaron",
+      "email": "jexyjuq@mailinator.com",
+      "phoneNumber": "5785664545",
+      "address": "Nisi ut duis beatae"
+    },
+    {
+      "id": 2,
+      "name": "Buincy Henson",
+      "email": "buincy@mailinator.com",
+      "phoneNumber": "5862165454",
+      "address": "Lorem ipsum dolor sit"
+    },
+    {
+      "id": 3,
+      "name": "Hanna Donovan",
+      "email": "hanna@mailinator.com",
+      "phoneNumber": "6365425254",
+      "address": "Consectetur adipiscing elit"
+    },
+    {
+        "id": 4,
+        "name": "Test",
+        "email": "test@mailinator.com",
+        "phoneNumber": "9785664545",
+        "address": "Chennai"
+      },
+      {
+        "id": 5,
+        "name": "Admin",
+        "email": "admin@mailinator.com",
+        "phoneNumber": "9985664545",
+        "address": "India"
+      }
+  ]
